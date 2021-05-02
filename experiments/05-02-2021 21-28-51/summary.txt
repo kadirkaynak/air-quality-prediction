@@ -1,0 +1,31 @@
+---------Experiment Parameters--------
+Past feature window: 10
+Future feature window: 12
+Train-Test split rate: 0.8
+Number of epochs: 100
+Batch size: 60
+Shuffle during training: True
+Verbose: 0
+---------------------------
+---------Dataset Details--------
+No. of sensors:10
+No of timesteps:20000
+Train data: (10, 16000)
+Test data: (10, 4000)
+Train data X: (15979, 10, 10)
+Train data Y: (15979, 10)
+Test data X: (3979, 10, 10)
+Test data Y: (3979, 10)
+---------------------------
+---------Model Details--------
+GCN layer sizes: [16, 10]
+GCN activation functions: ['relu', 'relu']
+LSTM layer sizes: [200, 200]
+LSTM activation functions: ['tanh', 'tanh']
+Optimizer: adam
+Loss function: mae
+Result Metrics: ['mse']
+---------------------------
+Last Train loss: 0.002593274926766753, Last Test loss:0.002562546404078603
+Total (ave) MAE for NN: 13.761131389671892
+Total (ave) MAE for naive prediction: 16.393259601922107Total (ave) MASE for per-segment NN/naive MAE: 0.8512389062657404...note that MASE<1 (for a given segment) means that theNN prediction is better than the naive prediction.
