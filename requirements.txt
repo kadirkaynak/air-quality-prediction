@@ -2,3 +2,4 @@ tensorflow
 stellargraph
 openpyxl
 missingno
+xlsxwriter
