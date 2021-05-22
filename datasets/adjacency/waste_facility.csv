@@ -1,0 +1,28 @@
+FACILITY_NAME,STATUS,ADDRESS,NEIGHBORHOOD_UAVT_CODE,NEIGHBORHOOD_NAME,COUNTY_UAVT_CODE,COUNTY_NAME,LOCATED_REGION_ID,LOCATED_REGION_NAME,LONGTITUDE,LATITUDE
+İBB Atık Yönetimi Müdürlüğü İBB Beyoğlu Ek Hizmet Binası ,Mevcut,Hacıahmet Mahallesi Yeniyol Zarif Sokak No : 22 34440 Kasımpaşa,40280,HACIAHMET,1186,BEYOĞLU,2,Anadolu,28.9715250005473,41.0389079990667
+Dolmabahçe Hizmet Birimi,Mevcut,Vişnezade Mah. Kadırgalar Cad. No:53 ,40214,VİŞNEZADE,1183,BEŞİKTAŞ,2,Anadolu,28.9938199996169,41.0406779992191
+Yenibosna Hizmet Birimi ,Mevcut,Çobançeşme Mahallesi Sanayi Caddesi Yenibosna,40184,ÇOBANÇEŞME,2005,BAHÇELİEVLER,2,Anadolu,28.8251680001846,40.9968089989243
+Gaziosmanpaşa Hizmet Birimi,Mevcut,Cumhuriyet Mahallesi Hilal Caddesi No:2,40465,CUMHURİYET,2055,SULTANGAZİ,2,Anadolu,28.8873780001592,41.0918899991622
+Odayeri Enerji Üretim Tesisi ,Mevcut,Kemerburgaz Yolu Eski Hasdal Çöplüğü Hasdal Kemerburgaz,40379,GÖKTÜRK MERKEZ,1325,EYÜPSULTAN,2,Anadolu,28.8534840000917,41.2161889994851
+Kompost Tesisi,Mevcut,Işıklar Köyü Ege Sokak No:5/1  Kısırmandıra Mevkii Kemerburgaz,191747,IŞIKLAR,1325,EYÜPSULTAN,2,Anadolu,28.8183579998198,41.2214989986859
+Maltepe Hizmet Birimi ,Mevcut,70 Evler Mevkii Gülsuyu Mezarlığı Üstü,40623,ZÜMRÜTEVLER,2012,MALTEPE,1,Avrupa,29.155083599478,40.9344252894451
+Hekimbaşı Katı Atık Aktama İstasyonu ,Mevcut,Hekimbaşı Mah.Küçüksu Cad. No: Bila,40737,İNKILAP,1852,ÜMRANİYE,1,Avrupa,29.1134074295466,41.0583185290947
+Şile Katı Atık Aktarma İstasyonu,Mevcut,Şile Araç Muayene İstasyonu Yanı ,191867,ÇAYIRBAŞI,1659,ŞİLE,1,Avrupa,29.6394637205028,41.1531375293419
+Halkalı Katı Atık Aktarma İstasyonu,Mevcut,Halkalı Yarımburgaz Mah. Fatih Cad. Halkalı ,40582,ATAKENT,1823,KÜÇÜKÇEKMECE,2,Anadolu,28.7624511097362,41.0433098889208
+Edirnekapı Hizmet Birimi ,Mevcut,Edirnekapı İ.E.T.T Otobüs Garajı Yanı Topçular Mah. Bostan Aralığı Sk. ,40376,TOPÇULAR,1325,EYÜPSULTAN,2,Anadolu,28.9296020003827,41.0300459994223
+KıraçHizmet Birimi ,Mevcut,Atatürk Mah. Cemal Gürsel Cad. No:14 Kıraç,40881,ATATÜRK,2053,ESENYURT,2,Anadolu,28.6313501005367,41.0335342292881
+Odayeri Düzenli Depolama Alanı Tıbbi Atık Yakma Tesisi ,Mevcut,Göktürk Köyü Kemerburgaz,40379,GÖKTÜRK MERKEZ,1325,EYÜPSULTAN,2,Anadolu,28.8545650003672,41.2161579991942
+Odayeri Düzenli Depolama Alanı ,Mevcut,Göktürk Köyü Kemerburgaz,40379,GÖKTÜRK MERKEZ,1325,EYÜPSULTAN,2,Anadolu,28.8577619995369,41.2127199994295
+Hasdal Enerji Üretim Tesisi,Mevcut,Kemerburgaz Yolu Eski Hasdal Çöplüğü Hasdal Kemerburgaz,40369,MİMAR SİNAN,1325,EYÜPSULTAN,2,Anadolu,28.9307905702657,41.1372243486914
+Aydınlı Katı Atık Aktarma İstasyonu,Mevcut,Aydınlı Köyü Patlayıcılar Yolu ,40720,AYDINLI,2015,TUZLA,1,Avrupa,29.3471512196003,40.8608823494234
+Kömürcüoda Düzenli Depolama Alanı,Mevcut,K.Oda Mevkii Karakiraz Köyü,191957,KARAKİRAZ,1659,ŞİLE,1,Avrupa,29.3692714005402,41.1508654587288
+Kömürcüoda Endüstriyel Atık Tesisi ,Mevcut,K.Oda Mevkii Karakiraz Köyü,191957,KARAKİRAZ,1659,ŞİLE,1,Avrupa,29.3769867698783,41.1461847590375
+Sancaktepe Aktarma İstasyonu,Proje," ",192001,PAŞAKÖY,2054,SANCAKTEPE,1,Avrupa,29.2639611695787,41.0051680992884
+Silivri Katı Atık Aktarma İstasyonu,Mevcut,Yenimahalle 1 Kasım Cad. Hasan Çeşme Mevkii ,40921,YENİ,1622,SİLİVRİ,2,Anadolu,28.2901838395005,41.0910384187238
+Ümraniye Hizmet Birimi,Mevcut,Hekimbaşı Küçüksu Cad. Asfalt sokak,40744,HEKİMBAŞI,1852,ÜMRANİYE,1,Avrupa,29.1057799005654,41.0573148489299
+Bakkalköy Katı Atık Aktarma İstasyonu ,Mevcut,Atatürk Mah. Erzincan Cad. ,40531,KÜÇÜKBAKKALKÖY,2049,ATAŞEHİR,1,Avrupa,29.1299673906002,40.9852051289414
+Kömürcüoda Enerji Üretim (LFG) Tesisi,Mevcut,K.Oda Mevkii Karakiraz Köyü,191957,KARAKİRAZ,1659,ŞİLE,1,Avrupa,29.3774226299322,41.1457535289401
+Baruthane Katı Atık Aktarma İstasyonu,Mevcut,Paşa Mah. Piyalepaşa Bulvarı No:74,40708,PAŞA,1663,ŞİŞLİ,2,Anadolu,28.9687040003943,41.0489899987435
+Yenibosna Katı Atık Aktarma İstasyonu,Mevcut,Yenibosna Sanayi Cad.,40184,ÇOBANÇEŞME,2005,BAHÇELİEVLER,2,Anadolu,28.8250659402433,40.9979405492631
+Elektronik Atık İşleme ve Geri Kazanım Tesisi ,Mevcut,Çobançeşme Mahallesi Sanayi Caddesi Yenibosna,40184,ÇOBANÇEŞME,2005,BAHÇELİEVLER,2,Anadolu,28.8254799997465,40.9970129986921
+Açık Kompost ve Geri Dönüşüm Tesisi ,Mevcut,K.Oda Mevkii Karakiraz Köyü,191957,KARAKİRAZ,1659,ŞİLE,1,Avrupa,29.3707492901884,41.1428449490565
